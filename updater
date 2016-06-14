@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdateDetails from="1.0.0" to="1.0.1">
+  <ConfigDiff>
+    <![CDATA[
+
+    ]]>
+  </ConfigDiff>
+  <Binaries>
+    <File>
+      <Link>/binaries/1.0.1/arm7hf/range-control</Link>
+      <Destination>/usr/bin/range-control</Destination>
+    </File>
+    <File>
+      <Link>/binaries/1.0.1/arm7hf/rtc-synch</Link>
+      <Destination>/usr/bin/rtc-synch</Destination>
+    </File>
+  </Binaries>
+</UpdateDetails>
