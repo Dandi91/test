@@ -7,10 +7,12 @@
   </ConfigDiff>
   <Binaries>
     <File>
+      <Size>178013</Size>
       <Link>/binaries/1.0.1/arm7hf/range-control</Link>
       <Destination>/usr/bin/range-control</Destination>
     </File>
     <File>
+      <Size>56213</Size>
       <Link>/binaries/1.0.1/arm7hf/rtc-synch</Link>
       <Destination>/usr/bin/rtc-synch</Destination>
     </File>
