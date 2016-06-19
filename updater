@@ -11,5 +11,10 @@
       <Link>http://ipv4.download.thinkbroadband.com/100MB.zip</Link>
       <Destination>/home/alex/100MB.zip</Destination>
     </File>
+    <File>
+      <Size>104857600</Size>
+      <Link>http://ipv4.download.thinkbroadband.com/100MB.zip</Link>
+      <Destination>/home/alex/100MB.zip.2</Destination>
+    </File>
   </Binaries>
 </UpdateDetails>
